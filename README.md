@@ -1,0 +1,3 @@
+# MuleSoft API Status Portal
+
+A lightweight, open-source status dashboard to monitor real-time API health for MuleSoft-based integrations...
